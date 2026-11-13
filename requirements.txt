@@ -1,0 +1,5 @@
+# Written for Google Colab, which also provides google.colab (Drive mount).
+pandas
+nltk
+afinn
+textblob
